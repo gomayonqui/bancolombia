@@ -1,10 +1,10 @@
 # Ruby Bancolombia
 
 ##Description
-A ruby script for checking your account balance through bancolombia virtual branch
+A ruby script for checking your account balance through bancolombia "sucursal virtual"
 
 ##Requisites
-Your computer must be registered as a safe access point on bancolombia virtual branch, this for avoiding the security questions.
+Your computer MUST be registered as a safe access point on bancolombia "sucursal virtual", this for avoiding the security questions.
 
 ##Usage
 
